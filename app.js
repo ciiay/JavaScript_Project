@@ -1,4 +1,4 @@
-// Module Pattern 
+// Using Module Pattern
 // Module for data privacy
 // Module for BUDGET CONTROLLER
 var budgetController = (function(){
